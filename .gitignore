@@ -1,0 +1,10 @@
+# Eclipse / STS
+.metadata/
+bin/
+target/
+*.log
+*.tmp
+*.class
+.idea/
+*.iml
+
